@@ -1,0 +1,8 @@
+inquisitor.js
+
+A framework to build questionnaires for web applications.
+
+Dependencies
+
+jQuery
+backbone.js
